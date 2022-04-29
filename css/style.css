@@ -45,7 +45,7 @@ body {
 .card {
   margin: 200px auto;
   background-color: white;
-  background-image: url(/imgs/bg-pattern-card.png);
+  background-image: url(../imgs/bg-pattern-card.png);
   background-repeat: no-repeat;
   width: 349px;
   height: 374px;
